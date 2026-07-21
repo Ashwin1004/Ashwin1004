@@ -1,7 +1,6 @@
 #  Hi, I'm Ashwin M S 👋
 
-# About Me
-# Backend Developer passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions.
+🚀 Backend Developer specialising in Spring Boot, Distributed Systems, and Generative AI, with a passion for building scalable, intelligent software solutions that solve real-world problems.
 
 ## 🛠️ Tech Stack
 
