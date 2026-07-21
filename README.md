@@ -1,6 +1,7 @@
 #  Hi, I'm Ashwin M S 👋
 
-Backend Developer passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions.
+# About Me
+# Backend Developer passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions.
 
 ## 🛠️ Tech Stack
 
